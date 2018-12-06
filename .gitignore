@@ -2,3 +2,6 @@
 emails.csv
 100kem.csv
 processed.csv
+*.ipynb
+smallpro.csv
+*.ipynb
